@@ -1,0 +1,2 @@
+# Moneda-Comunal-Venezuela
+Deseamos crear una CriptoMoneda que este apoyada por la mayoría de los habitantes de una Comunidad de la sociedad civil en Venezuela para beneficio de todos los Usuarios de la Moneda Digital. Dichas comunidades organizadas legalmente y con personalidad jurídica en mi país reciben el nombre de Consejos Comunales y cuando se organizan nueve (9) o hasta 10 Consejos Comunales se les denomina COMUNA.
